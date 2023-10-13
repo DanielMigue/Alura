@@ -1,2 +1,2 @@
 # JAVA: POO_Alura
-Cursos 
+Curso "JAVA: Aplicando a Orientação a Objetos"
